@@ -2,9 +2,9 @@ import Album from "./Album";
 
 export default function Music() {
   return (
-    <div className="flex justify-center">
-      <div>
-        <h2 className="text-3xl mt-4">Songs inspired by the Holy Spirit, written on the hearts of men.</h2>
+    <main className="flex justify-center">
+      <div className="w-full px-4">
+        <h2 className="text-xl md:text-2xl lg:text-3xl mt-4 text-justify sm:text-center">Songs inspired by the Holy Spirit, written on the hearts of men.</h2>
         <ul className="w-max mx-auto">
           <li className="mt-6">
             <Album
@@ -26,6 +26,6 @@ export default function Music() {
           </li>
         </ul>
       </div>
-    </div>
+    </main>
   )
 }

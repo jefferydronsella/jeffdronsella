@@ -10,7 +10,6 @@ export default function ErrorPage() {
           <img src="./background.jpg" className="mt-4" />
           <p className="text-2xl mt-4 text-center">Please select a menu item above.</p>
         </div>
-        {/* <img src="/Jeffery.jpg" alt="A picture of Jeffery" width="600" height="600" className="mx-auto mt-4" /> */}
       </main>
     </>
   )
