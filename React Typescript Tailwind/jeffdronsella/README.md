@@ -1,4 +1,4 @@
-# JeffDronsella.com website made with React + TypeScript + Tailwind + Vite
+# JeffDronsella.com made using React + TypeScript + Tailwind + Vite
 
 This website was made as an excercise in programming in React using TypeScript and Tailwind CSS.
 
