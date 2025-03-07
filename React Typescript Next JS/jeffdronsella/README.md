@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# JeffDronsella.com made using React + TypeScript + Tailwind + Next JS
 
-## Getting Started
+This website was made as an excercise in programming in React using TypeScript, Tailwind CSS and Next JS.
 
-First, run the development server:
+## What went well
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I found that the basic site structure and styling were pretty easy to achieve in Next JS with React and Tailwind by just creating the directory structure to match the routes.  Since the website is very simple I didn't need to use any of the more advanced features of React or Next JS.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Challenges
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Deploying this thing was pretty difficult.  Since I am using GoDaddy for hosting, I was not able to take advantage of the ease of deployment with something like Vercel.  I changed it into a static site and was required to make a few modifications to fix the image URLs and such.  Once built, the output folder was a mess of folders and files.  Some of the folders changed names when I made changes and rebuilt.  I did get it deployed and working after a few tries.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Conclusion
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Next JS makes routing easy.  Finding a file by name is a bit tricky due to every page being called page.tsx, but you get used to just looking at the directory structure instead of the file name.  I can see where this would be useful if you have a larger site with complex routing needs.  For my simple site, it was definitely overkill.
