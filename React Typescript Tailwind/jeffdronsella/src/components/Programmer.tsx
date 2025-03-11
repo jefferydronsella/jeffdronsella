@@ -67,8 +67,6 @@ export default function Programmer() {
           <p className="ml-2">University of Michigan-Dearborn</p>
           <p className="hidden sm:inline">&nbsp;–&nbsp;</p>
           <p className="ml-2 sm:ml-0">Dearborn, MI </p>
-          <p className="hidden sm:inline">&nbsp;–&nbsp;</p>
-          <p className="ml-2 sm:ml-0">May 2000</p>
         </div>
         <p className="text-sm sm:text-lg ml-2">Graduated with honors</p>
       </div>
