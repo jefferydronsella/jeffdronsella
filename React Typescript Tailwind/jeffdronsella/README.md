@@ -12,7 +12,7 @@ On the third attempt at building the site, I used React with Typescript and Tail
 
 ## What went well
 
-I found that the basic site structure and styling were pretty easy to achieve with React and Tailwind.  Since the website is very simple I didn't need to use any of the more advanced features of React.  It took me a bit to get used to how Tailwind reacts to different screen sizes, but it didn't take too long to get it working on the phone and on the big screen.
+I found that the basic site structure and styling were pretty easy to achieve with React and Tailwind.  Since the website is very simple I didn't need to use any of the more advanced features of React.  It took some effort to get used to how Tailwind reacts to different screen sizes, but it didn't take too long to get it working on the phone and on the big screen.
 
 ## Challenges
 
