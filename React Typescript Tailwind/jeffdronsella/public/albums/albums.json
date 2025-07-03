@@ -1,0 +1,72 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "artist": "Jeffery A. Dronsella",
+      "albumTitle": "My Grandfather's Piano",
+      "albumCover": "/albums/mgp-cover.jpg",
+      "links": [
+        {
+          "text": "Spotify",
+          "url": "https://open.spotify.com/album/6vNOwlSMwYGcSCPquvIEWc?si=ZS5VegPeQJWXnLm0R7U8aQ"
+        },
+        {
+          "text": "Apple Music",
+          "url": "https://music.apple.com/us/album/my-grandfathers-piano/1439786659"
+        },
+        {
+          "text": "YouTube",
+          "url": "https://www.youtube.com/watch?v=DOFJxYxPqxA&list=OLAK5uy_nb9Pru02CBc9JtgIJulQubUp_6Rc4MFtM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "artist": "Jeffery A. Dronsella",
+      "albumTitle": "Bring Me a Minstrel",
+      "albumCover": "/albums/bmam-cover.jpg",
+      "links": [
+        {
+          "text": "Spotify",
+          "url": "https://open.spotify.com/album/1rK9Bkwo7aui4qVkhmDZrI?si=CSU3kYlFQraM-D8vHdXHRQ"
+        },
+        {
+          "text": "Apple Music",
+          "url": "https://music.apple.com/us/album/bring-me-a-minstrel/1405581424"
+        },
+        {
+          "text": "YouTube",
+          "url": "https://www.youtube.com/watch?v=YGVxblE6gtA&list=OLAK5uy_kqLeKLsgq8kjKJLMObZ_thIwRAVRhhobo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "artist": "Dronsella Boys",
+      "albumTitle": "I Am Not a Robot",
+      "albumCover": "/albums/robot-cover.jpg",
+      "links": [
+        {
+          "text": "Brothers D (YouTube)",
+          "url": "https://youtu.be/gVxQvaOJOsg?si=lxh_NR4BpjDCdbFI"
+        },
+        {
+          "text": "I Am Not a Robot (YouTube)",
+          "url": "https://youtu.be/STZtRL7JXKo"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "artist": "Jeffery A. Dronsella",
+      "albumTitle": "Bring Me a Minstrel 2.0",
+      "albumCover": "/albums/bmam-cover.jpg",
+      "links": [
+        {
+          "text": "YouTube",
+          "url": "https://www.youtube.com/watch?v=gyzKK4-_tP0&list=PLIeKmUiGtFhKABPQBVsY8-BZrPNMij4OM"
+        }
+      ]
+    }
+  ]
+}

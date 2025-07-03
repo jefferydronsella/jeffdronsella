@@ -9,7 +9,7 @@ export default function Programmer() {
         </ul>
 
         <h3 className="text-xl sm:text-2xl lg:text-3xl mt-4">Professional Summary</h3>
-        <p className="mt-2 ml-2">Experienced Lead Software Developer with a strong background in full stack Android native and .NET development. Known for excellent problem-solving skills, project management, and mentoring abilities. Proven track record in delivering high-quality software and building strong professional relationships.</p>
+        <p className="mt-2 ml-2">Experienced Lead Software Developer with a strong background in full stack development. Known for excellent problem-solving skills, project management, and mentoring abilities. Proven track record in delivering high-quality software and building strong professional relationships.</p>
 
         <h3 className="text-xl sm:text-2xl lg:text-3xl mt-2">Professional Experience</h3>
 
@@ -57,24 +57,24 @@ export default function Programmer() {
         <h3 className="text-xl sm:text-2xl lg:text-3xl mt-2">Skills</h3>
 
         <ul className="grid sm:grid-cols-2 lg:grid-cols-3 ml-2">
-          <li>•	Mobile app development</li>
           <li>•	Full stack development</li>
+          <li>•	Mobile app development</li>
           <li>•	React</li>
           
-          <li>•	Android development</li>
           <li>•	Project management</li>
+          <li>•	Android development</li>
           <li>•	Angular</li>
           
-          <li>•	Kotlin</li>
           <li>•	.NET development</li>
+          <li>•	Kotlin</li>
           <li>•	JavaScript</li>
           
-          <li>•	Jetpack Compose</li>
           <li>•	SQL Server</li>
+          <li>•	Jetpack Compose</li>
           <li>•	Typescript</li>
           
-          <li>•	Java</li>
           <li>•	T-SQL coding</li>
+          <li>•	Java</li>
           <li>•	GitHub</li>
         </ul>
 
